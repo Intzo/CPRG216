@@ -33,3 +33,22 @@ num2_as_text = str(num2)
 year_of_birth = input("Please Enter your year of birth")
 print ("your age is ",2025 -  int(year_of_birth))
 
+#print function 
+print ("hello", "world", sep = '', end=' ') #to put 2 lines into 1
+print ("hello", "world", sep = '',) #to put words together
+print ("hello\tworld") #to put space \t
+print ("hello\nworld") #to put 1 line into 2 \n
+print ('What is the student\'s name?') #to have apostraphe
+print ('Use this symbol\\to make an escape character')# \\ escape character
+
+# precedence rules 
+
+expression = 3+4*0-300+12/3
+print (expression) (4/2)*3
+
+# more about Assignment 
+# the computer reads right to left example x = 3+4 it will calculate first then assign it to x
+
+x= 3
+x = x+5
+print(5)
