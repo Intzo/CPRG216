@@ -49,6 +49,20 @@ won = False
 print ("is 3>4", 3>4)
 print ("is 3<=4",3<=4)
 print ("is 3==5",3==5)
-print ("is 5>=55", 5>=5)
+print ("is 5>=5", 5>=5)
 print ("are 4 and 5 not equal", 4 !=5)
-print ("is age larger than 23",age>23)
+print ("is age larger than 23",age>23)  
+
+# statements 
+# if (keyword, is a must)
+#boolean expression (is a must)
+#: (is a must)
+#indentation (musthave)
+# if one or more statement of any any type
+
+if 3>4:# : is like then what? # this will only print if its true
+    print ("yes")
+    print ("yes that is true")
+# only the indented part of the statement 
+print ("outside if statement")
+

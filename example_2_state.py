@@ -1,4 +1,4 @@
-'''print ("welcome to the party")
+print ("welcome to the party")
 name = input("Please enter your name")
 if name == 'enzo':
     name = 'Enzo'
@@ -28,7 +28,7 @@ elif grade >=60:
 else:
     letter_grade = 'F'
 
-print ("your letter grade is", letter_grade)'''
+print ("your letter grade is", letter_grade)
 
 print ("welcome to the quadratic equation solver")
 print ("Please enter the three numbers a,b,c")
